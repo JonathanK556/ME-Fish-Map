@@ -1,0 +1,7 @@
+numpy==1.24.3
+pandas==2.0.3
+pyarrow==12.0.1
+folium>=0.14.0
+streamlit>=1.28.0
+streamlit-folium>=0.13.0
+ipywidgets>=8.0.0
