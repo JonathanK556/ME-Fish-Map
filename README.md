@@ -2,6 +2,12 @@
 
 An interactive map visualization of Maine fish stocking data, built with Folium and Streamlit.
 
+## 🌐 Live Application
+
+**Try the interactive map:** [https://mainetrout.streamlit.app/](https://mainetrout.streamlit.app/)
+
+Explore Maine's fish stocking data with interactive filtering, search, and detailed location information.
+
 ## Features
 
 - Interactive map showing fish stocking locations across Maine
@@ -20,7 +26,9 @@ An interactive map visualization of Maine fish stocking data, built with Folium 
 
 ## Deployment Options
 
-### Option 1: Streamlit Cloud (Recommended for Web Deployment)
+### Option 1: Streamlit Cloud (✅ LIVE!)
+
+**🌐 Live App:** [https://mainetrout.streamlit.app/](https://mainetrout.streamlit.app/)
 
 1. **Prepare your repository:**
    - Push your code to GitHub (make sure all files are included)
