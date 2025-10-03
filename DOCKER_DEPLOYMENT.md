@@ -2,7 +2,7 @@
 
 ## 🐳 Docker Setup Complete!
 
-Your fish stocking map is now ready for Docker deployment with production-ready configurations.
+Fish stocking map is now ready for Docker deployment with production-ready configurations.
 
 ## 📁 Files Created:
 
@@ -184,7 +184,7 @@ sudo chown -R $USER:$USER .
 
 ## 📞 Support
 
-Your Docker setup includes:
+Docker setup includes:
 - Production-ready configuration
 - Health monitoring
 - Easy scaling
